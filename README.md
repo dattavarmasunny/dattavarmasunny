@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dattavarmasunny
-- 👀 I’m interested in Machine Learning and Data Analysis
-- 🌱 I’m currently learning Front End Technology
+- 👀I'm Interested in Full Stack Development
+- 🌱 I’m currently Working on Backend Technology
 - 📫 How to reach me dattavarma.123@gmail.com
 
 <!---
